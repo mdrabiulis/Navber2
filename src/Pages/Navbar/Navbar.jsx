@@ -1,9 +1,10 @@
 import Log from "./Log/Log";
+import "./navbar.css"
 
 const Navbar = () => {
     return (
-        <div>
-            <Log></Log>
+        <div className="">
+            <Log ></Log>
         </div>
     );
 };
