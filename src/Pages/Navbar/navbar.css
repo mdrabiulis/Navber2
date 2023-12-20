@@ -1,0 +1,21 @@
+.navBar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 20px;
+    background: #709bf7;
+    
+}
+
+ul{
+    display: flex;
+    gap: 30px;
+    
+}
+
+/* li:hover{
+    background: #b16666;
+    width: 60px;
+    transition: 0.2;
+
+} */
